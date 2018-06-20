@@ -1,4 +1,4 @@
-wvar faces;
+var faces;
 var baddies;
 var goodies;
 
